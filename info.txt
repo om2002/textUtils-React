@@ -1,0 +1,15 @@
+/*************************** Understanding of Props and PropType *************/
+
+./components/ Navbar.js
+
+/********************** Understanding State & Handling Events in React and React Hooks**********/
+./components/TextFrom.js
+
+
+/******************************************************/
+
+exact is when used
+/user ->compinent 1
+/user/ram -> component 2 
+
+when we not uset exact then when we try to used /user/ram than /user is only show
